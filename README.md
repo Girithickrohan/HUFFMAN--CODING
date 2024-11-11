@@ -19,8 +19,9 @@ print the characters and its huffmancode
  
 ## Program:
 
-NAME : Gedipudi Darshani
-REGISTER NUMBER: 212223230062
+NAME : GIRITHICK ROHAN N
+
+REGISTER NUMBER: 212223230063
 
 ### Get the input String
 ```python
